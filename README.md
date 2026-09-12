@@ -3,6 +3,13 @@
 
 ---
 
+## 📫 Contact
+
+- [Website](https://toni1elias.github.io/)
+- [Bot](http://t.me/IT0001Bot)
+
+---
+
 ## 🛠️ Skills
 
 - **Databases & System Administration:** SQL, T-SQL, MySQL, Linux, Windows Server, Docker, Virtual Machines (VM).
@@ -13,8 +20,3 @@
 - **Continuous Learning:** Reading books, testing and exploring new technologies to develop further expertise.
 
 ---
-
-## 📫 Contact
-
-- [Website](https://toni1elias.github.io/)
-- [Bot](http://t.me/IT0001Bot)
