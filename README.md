@@ -1,6 +1,6 @@
 <h1 align="center">Toni Elias</h1>
 <p align="center">
-  Programmer · IT Professional · Technician · Accountant  
+  Software Developer · IT Professional · Technician · Accountant  
 </p>
 
 ---
