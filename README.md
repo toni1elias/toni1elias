@@ -1,10 +1,6 @@
+<h1 align="center">Toni Elias</h1>
 <p align="center">
-  <img src="MicrochipBlue.svg" width="200" alt="Logo">
-</p>
-
-<h1 align="center">Hi, I'm Toni Elias 👋</h1>
-<p align="center">
-  Programmer · IT Professional · Accountant  
+  Programmer · IT Professional · Technician · Accountant  
 </p>
 
 ---
