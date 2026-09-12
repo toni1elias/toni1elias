@@ -18,9 +18,3 @@
 
 - [Website](https://toni1elias.github.io/)
 - [Bot](http://t.me/IT0001Bot)
-
----
-
-<p align="center">
-  ⭐⭐⭐⭐⭐
-</p>
